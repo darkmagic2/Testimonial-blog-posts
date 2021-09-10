@@ -1,0 +1,21 @@
+:root {
+  --bs-moderateViolet: hsl(263,55%,52%);
+  --bs-grayishBlue: hsl(217,19%,35%);
+  --bs-blakishBLue: hsl(219,29%,14%);
+  --bs-White: hsl(0,0%,100%);
+  --bs-Gray: hsl(0,0%,81%);
+  --bs-grayishBLue: hsl(210,46%,95%);
+}
+
+body{
+  font-family: 'Barlow Semi Condensed', sans-serif;
+  font-size: 13px;
+}
+
+@media only screen and (max-width: 375px){
+
+}
+
+@media only screen and (max-width: 1440px){
+  
+}
