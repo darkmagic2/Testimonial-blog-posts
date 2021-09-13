@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Solution](https://github.com/darkmagic2/Testimonial-blog-posts)
-- Live Site URL: [Live URL](https://your-live-site-url.com)
+- Live Site URL: [URL](https://infallible-engelbart-cfdf6e.netlify.app/)
 
 ## My process
 
